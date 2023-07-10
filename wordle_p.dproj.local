@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/15 12:48:37.000.128,=C:\Users\Matthew.Brodziak\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/03 16:03:21.000.112,=C:\Users\Matthew.Brodziak\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/03 16:16:17.000.370,C:\Users\Matthew.Brodziak\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\wordle_u.pas</Transaction>
+    <Transaction>2023/07/03 16:16:17.000.370,C:\Users\Matthew.Brodziak\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\wordle_u.dfm</Transaction>
+    <Transaction>2023/07/03 16:16:24.000.528,C:\Users\Matthew.Brodziak\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\wordle_p.dproj</Transaction>
+    <Transaction>2023/07/04 18:06:30.000.025,=C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\Unit1.pas</Transaction>
+    <Transaction>2023/07/04 18:06:56.000.578,C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\Unit1.dfm=C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\dmWordle_u.dfm</Transaction>
+    <Transaction>2023/07/04 18:06:56.000.578,C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\Unit1.pas=C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\dmWordle_u.pas</Transaction>
+    <Transaction>2023/07/04 20:37:20.000.834,=C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\Unit2.pas</Transaction>
+    <Transaction>2023/07/04 20:37:38.000.352,C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\Scores_u.dfm=C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\Unit2.dfm</Transaction>
+    <Transaction>2023/07/04 20:37:38.000.352,C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\Scores_u.pas=C:\Users\Matthew.Brodziak\Documents\Personal Projects\Wordle\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
